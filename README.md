@@ -2,7 +2,7 @@
 
 Like `.tap` in Bluebird, but for errors. Sees errors, but doesn't catch them. Handy when you want to peek at errors, but want to do the actual error handling elsewhere.
 
-<a href="https://gratipay.com/joepie9"><img src="//img.shields.io/gratipay/joepie91.svg"></a>
+<a href="https://gratipay.com/joepie91"><img src="https://img.shields.io/gratipay/joepie91.svg"></a>
 
 ## License
 
