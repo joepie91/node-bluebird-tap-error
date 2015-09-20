@@ -1,6 +1,6 @@
 {
   "name": "bluebird-tap-error",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Like .tap, but for errors (rejections)",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@git.cryto.net:projects/joepie91/node-bluebird-tap-error"
+    "url": "git://github.com/joepie91/node-bluebird-tap-error"
   },
   "keywords": [
     "bluebird",

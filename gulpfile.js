@@ -1,10 +1,7 @@
 var gulp = require('gulp');
 
 /* CoffeeScript compile deps */
-var path = require('path');
 var gutil = require('gulp-util');
-var concat = require('gulp-concat');
-var rename = require('gulp-rename');
 var coffee = require('gulp-coffee');
 var cache = require('gulp-cached');
 var remember = require('gulp-remember');
